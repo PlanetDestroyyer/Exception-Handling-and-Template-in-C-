@@ -1,0 +1,1 @@
+Template is keyword used for generic programming i.e. one functon or class can handle any data type

@@ -1,0 +1,5 @@
+exception means type of error which can handled if we do some changes in code , it is an run time errror 
+keywords = try,throw and catch 
+excepton code comes under try block
+there we use throw keyword to throw the error we got 
+catch block the throw error and try to resolve
